@@ -1,6 +1,6 @@
 export const metadata = {
-    title: "Projects",
-    description: 'my projects',
+    title: "Socials",
+    description: 'my socials',
   };
   export default function layout({ children }) {
     return <div>{children}</div>;
