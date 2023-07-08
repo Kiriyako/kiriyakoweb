@@ -5,6 +5,10 @@ export default function Project() {
     <div id="main">
       <h1>My Projects:</h1>
       <div id="project">
+      <div className="project-item">
+          <img width="600" height="285" src={`../../whetherlikeNew.png`} alt="whetherlike" />
+          <Link href={`https://whetherlike.vercel.app/`}><h2>Whetherlike (New)</h2></Link>
+        </div>
         <div className="project-item">
           <img width="600" height="285" src={`../../inuani.png`} alt="inuani" />
           <Link href={`https://inuani.vercel.app/`}><h2>inuani</h2></Link>
