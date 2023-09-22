@@ -7,15 +7,15 @@ export default function Project() {
       <div id="project">
       <div className="project-item">
           <img width="600" height="285" src={`../../ayakaa.png`} alt="ayakaa" />
-          <Link href={`https://ayakaa.vercel.app/`}><h2>ayakaa</h2></Link>
+          <Link href={`https://ayakaa.netlify.app/`}><h2>ayakaa</h2></Link>
         </div>
       <div className="project-item">
           <img width="600" height="285" src={`../../whetherlikeNew.png`} alt="whetherlike" />
-          <Link href={`https://whetherlike.vercel.app/`}><h2>Whetherlike (New)</h2></Link>
+          <Link href={`https://whetherlike.netlify.app/`}><h2>Whetherlike (New)</h2></Link>
         </div>
         <div className="project-item">
           <img width="600" height="285" src={`../../inuani.png`} alt="inuani" />
-          <Link href={`https://inuani.vercel.app/`}><h2>inuani</h2></Link>
+          <Link href={`https://inuani.netlify.app/`}><h2>[NEEDS REWORK] inuani</h2></Link>
         </div>
         <div className="project-item">
           <img width="600" height="285" src={`../../kanjiyuki.png`} alt="kanjiyuki" />
