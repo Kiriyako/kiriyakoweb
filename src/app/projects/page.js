@@ -25,10 +25,6 @@ export default function Project() {
           <img width="600" height="285" src={`../../kanjiyuki.png`} alt="kanjiyuki" />
           <Link href={`https://kiriyako.github.io/KanjiYuki/`}><h2>KanjiYuki</h2></Link>
         </div>
-        <div className="project-item">
-          <img width="600" height="285" src={`../../whetherlike.png`} alt="whetherlikevanilla" />
-          <Link href={`https://kiriyako.github.io/whetherlike/`}><h2>Whetherlike (Vanilla JS)</h2></Link>
-        </div>
       </div>
     </div>
   );
